@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http://narayana.com/courses"
+	xsi:schemaLocation="http://narayana.com/courses course-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CourseDetails>
+		<id>123</id>
+		<name>Spring SOAP Services</name>
+		<description>Learning Spring boot with SOAP Services</description>
+	</CourseDetails>
+</GetCourseDetailsResponse>
